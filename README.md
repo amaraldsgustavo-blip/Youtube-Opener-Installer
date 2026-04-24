@@ -55,3 +55,5 @@ You can see all the code in this repository. The YouTube Opener does not store a
 ---
 
 The YouTube Opener was made by [GusTAv] as a project to learn about deployment and automation.
+
+This open code source is made for purely fun and ideas.
